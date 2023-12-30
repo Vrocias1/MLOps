@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/857bfe16f44045b68685c9eb5a55e32b/artifacts
+end_time: 1703891809201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 857bfe16f44045b68685c9eb5a55e32b
+run_name: salty-squirrel-802
+run_uuid: 857bfe16f44045b68685c9eb5a55e32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703891806499
+status: 4
+tags: []
+user_id: vinit

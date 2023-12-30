@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc6519df2ef4476bab3a7cd8ad9096c9/artifacts
+end_time: 1703891690786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc6519df2ef4476bab3a7cd8ad9096c9
+run_name: melodic-smelt-874
+run_uuid: cc6519df2ef4476bab3a7cd8ad9096c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703891688145
+status: 4
+tags: []
+user_id: vinit

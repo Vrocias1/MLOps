@@ -1,0 +1,90 @@
+[2023-10-25 08:32:23,363: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:32:23,364: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:38:23,631: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:38:23,632: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:38:36,980: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:38:36,982: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:38:37,571: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:38:37,575: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:38:37,835: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:38:37,836: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:01,215: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:01,216: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:11,131: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:11,131: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:11,786: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:11,787: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:11,985: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:11,986: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:12,257: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:12,257: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:12,470: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:12,471: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:12,639: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:12,639: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:12,808: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:12,809: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:12,953: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:12,954: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:13,116: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:13,117: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:13,277: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:13,278: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:13,428: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:13,429: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:13,586: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:13,587: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:13,735: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:13,735: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:13,883: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:13,884: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:14,059: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:14,060: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:19,862: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:19,863: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:42:54,526: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:42:54,528: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:43:22,448: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:43:22,454: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:43:22,460: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-25 08:43:22,461: INFO: common: created directory at: artifacts]
+[2023-10-25 08:43:22,463: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-25 08:43:23,179: INFO: 2280763589: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A66A:4200:48A50F:58C4F2:65391B7A
+Accept-Ranges: bytes
+Date: Wed, 25 Oct 2023 13:43:23 GMT
+Via: 1.1 varnish
+X-Served-By: cache-chi-klot8100163-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1698241404.800667,VS0,VE90
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 53b6cdc525ffd82b085f92138267cd7d7ef11481
+Expires: Wed, 25 Oct 2023 13:48:23 GMT
+Source-Age: 0
+
+]
+[2023-10-25 08:44:04,654: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 08:44:04,655: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 08:44:04,657: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-25 08:44:04,658: INFO: common: created directory at: artifacts]
+[2023-10-25 08:44:04,658: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-25 08:44:04,659: INFO: 2280763589: File already exists of size: ~ 23 KB]
+[2023-10-25 09:09:48,690: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-25 09:09:48,691: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-25 09:09:48,692: INFO: common: yaml file: schema.yaml loaded successfully]
+[2023-10-25 09:09:48,693: INFO: common: created directory at: artifacts]
+[2023-10-25 09:09:48,694: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-10-25 09:09:48,694: INFO: 2280763589: File already exists of size: ~ 23 KB]
